@@ -1,3 +1,6 @@
 {
-  "name": "electron-twitter"
+  "name": "electron-twitter",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.0"
+  }
 }
